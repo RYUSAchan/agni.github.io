@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as o}from"./entry.D-J5_TGu.js";const c={},n={class:"flex justify-content-center block",style:{width:"100vw"}},a=o("span",{class:"text-white text-7xl"},"Agni: Tools for Victoria 3",-1),r=[a];function _(i,l){return s(),t("div",n,r)}const f=e(c,[["render",_]]);export{f as default};
