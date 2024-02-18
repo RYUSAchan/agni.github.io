@@ -1,0 +1,1 @@
+import{n as e,o,A as a,w as n,b as _,J as s}from"./entry.B_ywYInL.js";import{_ as c}from"./AppLayout.vue.CI8gLTAg.js";import"./nuxt-link.yutUxVkf.js";const l=e({__name:"default",setup(r){return(m,p)=>{const t=s;return o(),a(c,null,{default:n(()=>[_(t)]),_:1})}}});export{l as default};
